@@ -3,10 +3,7 @@
 ```
 Build a binary classifier based on 3 layers neural network using the human versus horse dataset 
 ```
-$n^2$
 
-
-\alpha
 
 ## Binary classification based on 3 layers neural network
 
